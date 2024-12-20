@@ -7,7 +7,6 @@
 - 📫 How to reach me:
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/julijana-uneva-b28a751b5/)  
  - [![Email](https://img.shields.io/badge/Email-julijana3uneva@gmail.com-red)](mailto:julijana3uneva@gmail.com)
-- ⚡ Fun fact: I love painting in my free time.
 - ✨ Check out my projects and let's connect! 🚀
 
 <!---
